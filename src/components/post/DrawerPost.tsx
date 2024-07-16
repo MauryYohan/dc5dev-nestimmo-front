@@ -28,7 +28,7 @@ const DrawerPost = () => {
             <DrawerContent>
                 <DrawerHeader>
                     <DrawerTitle className="text-center">Ajouter un post</DrawerTitle>
-                    <DrawerDescription className="text-center">Renseignez l'enssemble des champs.</DrawerDescription>
+                    <DrawerDescription className="text-center">Renseignez l&apos;ensemble des champs.</DrawerDescription>
                     <FormPost setOpen={setOpen} />
                 </DrawerHeader>
                 <DrawerFooter>
